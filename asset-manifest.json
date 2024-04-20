@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pincode/static/css/main.9be7bb19.css",
+    "main.js": "/Pincode/static/js/main.b369766e.js",
+    "index.html": "/Pincode/index.html",
+    "main.9be7bb19.css.map": "/Pincode/static/css/main.9be7bb19.css.map",
+    "main.b369766e.js.map": "/Pincode/static/js/main.b369766e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be7bb19.css",
+    "static/js/main.b369766e.js"
+  ]
+}
